@@ -9,5 +9,7 @@ classes in order to avoid monolith code. The five classes are: (1) parser class 
 manipulated, (2) a table class that creates the SQLite table and contacts the SQLite database, (3) a data class that will classify the 
 information in the list, (4) a SQLite connection class that will ensure the database can be contacted without error, (5) and lastly a main 
 class to run everything together.
+
+
 I have a more than a couple major issues with regards to the app working overall. I wasn’t sure how to take the parsed CSV file and then 
-both make a table and populate it. 
+both make a table and populate it. Furthmore, my code doesn't produce any usable output.
